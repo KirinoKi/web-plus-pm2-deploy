@@ -139,7 +139,7 @@ class Api {
   }
   }
   // Замените на адрес вашего бэкенда
-  const api = new Api('https://api.kirinoki.nomoredomains.work/');
+  const api = new Api('https://api.kirinoki.nomoredomains.work');
   
   export default api;
   
